@@ -1,6 +1,6 @@
 {
   "name": "unit_test_nodejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "run.js",
   "scripts": {
@@ -11,8 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^29.7.0"
-  },
-  "publishConfig": {
-    "registry": "http://54.253.235.29:8081/repository/npm-private/"
   }
 }
